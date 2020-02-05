@@ -37,7 +37,7 @@
       (e.isFluid = null),
       (e.aspectRatio = null),
       (e.initialWidth = null),
-      (e.initialHeight = 500);
+      (e.initialHeight = null);
   }
   var t = i.prototype;
   (t.hasSupport = function() {
